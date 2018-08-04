@@ -4,7 +4,7 @@ export default class Form extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Hai Sob</h1>
+        <h1>Hai Bro</h1>
         <h2>Aplikasi Input</h2>
         <form>
           Nama Depan:<br />
