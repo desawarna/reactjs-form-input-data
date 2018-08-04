@@ -4,7 +4,7 @@ export default class Form extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Hai Bro</h1>
+        <h1>Hai Sob</h1>
         <h2>Aplikasi Input</h2>
         <form>
           Nama Depan:<br />
@@ -12,6 +12,8 @@ export default class Form extends Component {
           <br />
           Nama Belakang:<br />
           <input type="text" name="namabelakang" /> <br />
+          Nomer HP:<br />
+          <input type="text" name="nomerhp" /> <br />
           Jenis Kelamin
           <br />
           <input name="jeniskelamin" checked="" type="radio" /> Laki Laki
