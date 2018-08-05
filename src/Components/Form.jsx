@@ -5,7 +5,7 @@ export default class Form extends Component {
     return (
       <div className="App">
         <h1>Hai Sob</h1>
-        <h2>Aplikasi Input</h2>
+        <h2>Aplikasi Input data</h2>
         <form>
           Nama Depan:<br />
           <input type="text" name="namadepan" />
